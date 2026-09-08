@@ -1,0 +1,85 @@
+PhoneIDE — Third-Party Notices
+==============================
+
+
+ACKNOWLEDGEMENT
+----------------
+
+PhoneIDE was built using AndroStudio, an Android IDE for building
+Android apps on your phone.
+
+  AndroStudio — https://t.me/AndroStudioOfficial
+
+
+OPEN-SOURCE LIBRARIES
+----------------------
+
+This application uses the following open-source libraries:
+
+
+1. sora-editor (Rosemoe)
+   License: GNU LGPL v3.0
+   Copyright (c) 2021-2024 Rosemoe
+   https://github.com/Rosemoe/sora-editor
+
+2. Termux Terminal View & Emulator
+   License: GNU GPL v3.0
+   Copyright (c) 2016-2024 Termux
+   https://github.com/termux/termux-app
+
+3. Apache Commons Compress
+   License: Apache License 2.0
+   Copyright (c) 2002-2024 The Apache Software Foundation
+   https://github.com/apache/commons-compress
+
+4. XZ for Java
+   License: Public Domain / 0BSD
+   Copyright (c) Lasse Collin, Igor Pavlov
+   https://github.com/tukaani-project/xz-java
+
+5. Coil (Image Loading)
+   License: Apache License 2.0
+   Copyright (c) 2024 Coil Contributors
+   https://github.com/coil-kt/coil
+
+6. Kotlin Coroutines
+   License: Apache License 2.0
+   Copyright (c) 2000-2024 JetBrains s.r.o.
+   https://github.com/Kotlin/kotlinx.coroutines
+
+7. Android Jetpack (AndroidX)
+   License: Apache License 2.0
+   Copyright (c) 2011-2024 The Android Open Source Project
+   https://github.com/androidx/androidx
+
+8. Material Components for Android
+   License: Apache License 2.0
+   Copyright (c) 2014-2024 Google LLC
+   https://github.com/material-components/material-components-android
+
+9. Guava ListenableFuture
+   License: Apache License 2.0
+   Copyright (c) 2010-2024 Google LLC
+   https://github.com/google/guava
+
+
+LICENSE SUMMARIES
+-----------------
+
+Apache License 2.0:
+You may use, copy, and distribute the library in binary or source form,
+provided you include the copyright notice and license text.
+
+GNU LGPL v3.0:
+You may use the library in your proprietary software, provided you link
+dynamically and provide the library's source code or a written offer.
+
+GNU GPL v3.0:
+If you distribute a binary that includes GPL-licensed code, you must
+also make the corresponding source code available under the GPL.
+
+
+Full license texts:
+- Apache 2.0: https://www.apache.org/licenses/LICENSE-2.0
+- LGPL v3.0:  https://www.gnu.org/licenses/lgpl-3.0.html
+- GPL v3.0:   https://www.gnu.org/licenses/gpl-3.0.html
