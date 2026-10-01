@@ -1,0 +1,33 @@
+# Build output
+*.apk
+*.aab
+*.ap_
+*.dex
+/build/
+/app/build/
+/captures/
+.cxx/
+
+# Gradle
+.gradle/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# Local config — machine-specific, never shared
+local.properties
+
+# Signing — never commit real keys/keystores
+*.jks
+*.keystore
+keystore/
+signing.properties
+config.properties
+
+# IDE
+.idea/
+*.iml
+.DS_Store
+
+# Logs
+*.log
